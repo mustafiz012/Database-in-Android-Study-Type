@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DBStudy</string>
+    <string name="title_activity_user">UserInfo</string>
+</resources>
